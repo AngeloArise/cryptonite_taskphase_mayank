@@ -20,7 +20,7 @@ picoCTF{run_s4n1ty_run}
 <br>
 <br>
 
-## First find
+## First find (easy)
 I used ```find``` to find the file using the command line. Going fairly easy for now, will gear up in the next few days.
 
 ### Flag
