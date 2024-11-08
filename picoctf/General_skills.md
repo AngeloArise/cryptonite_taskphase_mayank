@@ -2,6 +2,7 @@
 When i completed TP1, the additional challenge i was given was 'bandit over the wire', and the first challenge of that series of challenges was to ssh onto the website using a specific port. Learned how to ssh using a specific port there.
 
 ### Flag
+Challenge required the user to ssh onto a server with a password and on a specific given port
 ```
 picoCTF{s3cur3_c0nn3ct10n_5d09a462}
 ```
@@ -12,6 +13,7 @@ picoCTF{s3cur3_c0nn3ct10n_5d09a462}
 This looked fairly easy, however the description said i can use a command ```wget``` to install a file from a URL. Very useful to learn since I don't necessarily need to open the browser to install files now.
 
 ### Flag
+Challenge required the user to download and run a python file given in the description
 ```
 picoCTF{run_s4n1ty_run}
 ```
