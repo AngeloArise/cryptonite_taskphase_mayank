@@ -24,6 +24,7 @@ picoCTF{run_s4n1ty_run}
 I used ```find``` to find the file using the command line. Going fairly easy for now, will gear up in the next few days.
 
 ### Flag
+Challenge required the user to find a text file in a relatively dense group of folders.
 ```
 picoCTF{f1nd_15_f457_ab443fd1}
 ```
