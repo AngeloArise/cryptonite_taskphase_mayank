@@ -135,11 +135,12 @@ picoCTF{g00d_k1tty!_n1c3_k1tty!_d3dfd6df}
 
 
 ## Static aint always noise (easy)
+A file was given, along with a bash script, supposedly had to be run with the argument of the static file, I just ```strings static``` and found the flag. I did the the way it was supposed to as well, and then grepped to the flag.
 
 ### Flag
-
+Challenge required the user to download a bash script and a file and find the flag 
 ```
-
+picoCTF{d15a5m_t34s3r_ae0b3ef2}
 ```
 <br>
 <br>
