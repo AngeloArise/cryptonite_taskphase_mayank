@@ -30,3 +30,125 @@ picoCTF{f1nd_15_f457_ab443fd1}
 ```
 <br>
 <br>
+
+## Lets warm up (easy)
+Learned about a new format of Hexadecimal.
+
+### Flag
+Challenge required the user to convert hex to ASCII.
+```
+picoCTF{p}
+```
+<br>
+<br>
+
+
+## Whats a net cat? (easy)
+Learnt about the ```nc``` (netcat) command and how to use it on a specific port
+### Flag
+
+```
+
+```
+<br>
+<br>
+
+
+## Strings it (easy)
+
+### Flag
+
+```
+
+```
+<br>
+<br>
+
+
+## Warmed up (easy)
+
+### Flag
+
+```
+
+```
+<br>
+<br>
+
+
+## Bases (easy)
+
+### Flag
+
+```
+
+```
+<br>
+<br>
+
+
+## First Grep (easy)
+
+### Flag
+
+```
+
+```
+<br>
+<br>
+
+
+## First Grep (easy)
+Technically not my first Grep.
+
+### Flag
+
+```
+
+```
+<br>
+<br>
+
+
+## 2Warm (easy)
+
+### Flag
+
+```
+
+```
+<br>
+<br>
+
+
+## Obidient cat (easy)
+
+### Flag
+
+```
+
+```
+<br>
+<br>
+
+
+## Nice netcat (easy)
+
+### Flag
+
+```
+
+```
+<br>
+<br>
+
+
+## Static aint always noise (easy)
+
+### Flag
+
+```
+
+```
+<br>
+<br>
