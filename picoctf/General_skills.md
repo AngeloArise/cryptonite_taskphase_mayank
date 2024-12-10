@@ -35,3 +35,38 @@ picoCTF{nEtCat_Mast3ry_284be8f7}
 <br>
 <br>
 
+## Warmed Up (Easy)
+>What is 0x3D (base 16) in decimal (base 10)?
+
+### Flag
+Given Code is a weighted Code.
+```
+picoCTF{61}
+```
+<br>
+<br>
+
+## 2Warm (Easy)
+>Can you convert the number 42 (base 10) to binary (base 2)?
+
+### Flag
+Given code is a weighted Code.
+```
+picoCTF{101010}
+```
+<br>
+<br>
+
+## Bases (Easy)
+>What does this bDNhcm5fdGgzX3IwcDM1 mean? I think it has something to do with bases.
+
+
+### Flag
+Given String is encoded in Base64. Decode to get the Flag.
+```
+picoCTF{l3arn_th3_r0p35}
+```
+<br>
+<br>
+
+
