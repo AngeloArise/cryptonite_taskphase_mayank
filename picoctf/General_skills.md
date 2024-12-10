@@ -69,4 +69,28 @@ picoCTF{l3arn_th3_r0p35}
 <br>
 <br>
 
+## Wave a flag (Easy)
+>Can you invoke help flags for a tool or binary? This program has extraordinarily helpful information...
+
+### Flag
+Run the program and follow the instructions to get the flag
+```
+picoCTF{b1scu1ts_4nd_gr4vy_6635aa47}
+```
+<br>
+<br>
+
+## Tab, Tab, Attack
+>Using tabcomplete in the Terminal will add years to your life, esp. when dealing with long rambling directory structures and filenames:
+
+### Flag
+cd through the folder to find an executable to get the flag. 
+```
+ picoCTF{l3v3l_up!_t4k3_4_r35t!_2bcfb2ab}
+```
+<br>
+<br>
+
+##
+
 
