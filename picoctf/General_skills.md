@@ -91,6 +91,28 @@ cd through the folder to find an executable to get the flag.
 <br>
 <br>
 
-##
+## First Grep (Easy)
+>Can you find the flag in file? This would be really tedious to look through manually, something tells me there is a better way.
+
+### Flag
+Use Grep to find the flag
+```
+picoCTF{grep_is_good_to_find_things_5af9d829}
+```
+<br>
+<br>
+
+## Strings it
+>Can you find the flag in file without running it?
+
+### Flag
+use the strings command and direct the output to another file. Use Grep to find the flag
+```
+picoCTF{5tRIng5_1T_d66c7bb7}
+```
+<br>
+<br>
+
+
 
 
